@@ -10,3 +10,5 @@ Ein Benutzer erstellt ein **SSH-Schlüsselpaar**:
 - **Public Key** → wird auf dem Server gespeichert
 
 Nur wenn der Client den passenden Private Key besitzt, wird der Zugriff erlaubt.
+
+![SSH-Authentifizierung](ssh-diagramm.png)
